@@ -32,9 +32,15 @@ pod 'CHTReachability'
 
 To get the full benefits import `CHTReachability` wherever you import UIKit
 
+###### Swift
 ``` swift
 import UIKit
 import CHTReachability
+```
+
+###### Objective-C
+``` obj-c
+#import <CHTReachability/CHTReachability.h>
 ```
 
 #### Manually

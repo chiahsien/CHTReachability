@@ -20,13 +20,27 @@ Prerequisite
 
 How to install
 --------------
-* CocoaPods
-  - Add `pod 'CHTReachability'` to your Podfile.
 
-* Manual
-  - Copy `CHTReachability.h/m` to your project.
-  - Copy `Vender` folder to your project.
-  - Add `SystemConfiguration.framework`.
+#### CocoaPods
+You can use [CocoaPods](http://cocoapods.org/) to install `CHTReachability` by adding it to your `Podfile`:
+
+```ruby
+platform :ios, '8.0'
+use_frameworks!
+pod 'CHTReachability'
+```
+
+To get the full benefits import `CHTReachability` wherever you import UIKit
+
+``` swift
+import UIKit
+import CHTReachability
+```
+
+#### Manually
+1. Copy `CHTReachability.h/m` to your project.
+2. Copy `Vender` folder to your project.
+4. Add `SystemConfiguration.framework`.
 
 How to Use
 ----------

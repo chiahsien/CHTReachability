@@ -26,6 +26,7 @@ How to install
 * Manual
   - Copy `CHTReachability.h/m` to your project.
   - Copy `Vender` folder to your project.
+  - Add `SystemConfiguration.framework`.
 
 How to Use
 ----------

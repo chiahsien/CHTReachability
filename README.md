@@ -80,6 +80,6 @@ Changelog
 ---------
 Refer to the [releases page](https://github.com/chiahsien/CHTReachability/releases).
 
-[Reachability]: (https://developer.apple.com/library/ios/samplecode/Reachability/Introduction/Intro.html)
-[SimplePing]: (https://developer.apple.com/library/prerelease/content/samplecode/SimplePing/Introduction/Intro.html)
-[CocoaPods]: (http://cocoapods.org/)
+[Reachability]: https://developer.apple.com/library/ios/samplecode/Reachability/Introduction/Intro.html
+[SimplePing]: https://developer.apple.com/library/prerelease/content/samplecode/SimplePing/Introduction/Intro.html
+[CocoaPods]: http://cocoapods.org/
